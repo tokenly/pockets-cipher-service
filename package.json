@@ -1,0 +1,25 @@
+{
+  "name": "pockets-cipher-service",
+  "version": "0.0.1",
+  "description": "A simple encryption and decryption service.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "sjcl": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokenly/pockets-cipher-service.git"
+  },
+  "author": "Devon Weller <devon@tokenly.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokenly/pockets-cipher-service/issues"
+  },
+  "homepage": "https://github.com/tokenly/pockets-cipher-service#readme"
+}
